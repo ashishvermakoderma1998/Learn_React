@@ -11,7 +11,7 @@ function App() {
 
   return (
     <>
-     <h1 className='bg-green-500 text-black p-4 rounded-xl'>tailwind C</h1>
+     <h1 className='bg-green-500 text-black p-4 rounded-xl'>tailwind Cl</h1>
      <Card/>
      <Card/>
      
